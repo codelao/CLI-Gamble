@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #	 .=============-\  .=============-\ 
 #	 |             ||  |             || 
 #	 |  ●          ||  |   ●     ●   || 
@@ -9,7 +11,6 @@
 #	       CLI              GAMBLE      
 #	~[$$$__________by Lao__________$$$]~
 
-#!/usr/bin/env python3
 
 import sys
 from .gamble import main
